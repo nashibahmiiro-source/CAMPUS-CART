@@ -18,8 +18,10 @@ Show Diff
     <h1>Campus Cart</h1>
     <p>Your Campus Online Shop</p>
 </header>
-
-<hr>
+<h1>
+    This project proposes an e-commerce website designed to help University students to easily purchase affordable academic and life style 
+    essentials.
+</h1>
 
 <!-- Navigation -->
 <nav>
